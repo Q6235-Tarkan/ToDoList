@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 300px;
+  margin: 50px auto;
+  text-align: center;
+}
+
+p {
+  text-align: left;
+}
+.baslik {
+  text-align: center;
+}
+.fas {
+  color: red;
+}
+.fas:hover {
+  cursor: pointer;
+}
